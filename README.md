@@ -14,6 +14,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 <hr/>
 
+<h2>📜 Certifications:</h2>
+CompTIA Security+ <br> Certified in cybersecurity (ISC)²
+
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
