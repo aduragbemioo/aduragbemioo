@@ -7,6 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Vulnerability Management Program Implementation](https://github.com/aduragbemioo/Vulnerability-Management-Program-Implementation/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- - **[STIG Implementations Remediations (PowerShell)](https://github.com/aduragbemioo/STIG_IMPLEMENTATIONS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
