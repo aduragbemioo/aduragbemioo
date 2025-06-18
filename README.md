@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 <hr/>
 
 ## 📊💻🔍 Security Analytics Projects
-- **[Cyber Analyticsd Implementation (Python) ](https://github.com/aduragbemioo/Cyber-Analytics)**
+- **[Cyber Analytics Implementation (Python) ](https://github.com/aduragbemioo/Cyber-Analytics)**
 
 <h2>📜 Certifications:</h2>
 CompTIA Security+ <br> Certified in cybersecurity (ISC)²
