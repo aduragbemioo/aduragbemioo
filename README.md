@@ -11,7 +11,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/aduragbemioo/threat-hunting-scenario-tor)**
-- - **[Threat Hunting Scenario (Persistence via windows registry run key)](https://github.com/aduragbemioo/Threat-Event-Persistence-via-Windows-Registry-Run-Key-)**
+- **[Threat Hunting Scenario (Persistence via windows registry run key)](https://github.com/aduragbemioo/Threat-Event-Persistence-via-Windows-Registry-Run-Key-)**
 
 <hr/>
 
