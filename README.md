@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Tor Browser Usage](https://github.com/aduragbemioo/threat-hunting-scenario-tor)**
 - **[Persistence via windows registry run key](https://github.com/aduragbemioo/Threat-Event-Persistence-via-Windows-Registry-Run-Key-)**
+- **[Credential Dumping via LSASS Access](https://github.com/aduragbemioo/Threat-Hunt-Scenario-Credential-Dumping-via-LSASS-Access)**
 
 <hr/>
 
